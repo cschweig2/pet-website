@@ -1,0 +1,50 @@
+div {
+  background-color: rgb(177, 224, 238);
+  display: table;
+  margin: 0 auto;
+  color: white;
+  font-family: Helvetica;
+  padding: 30px;
+  border: 5px solid rgb(0, 68, 100);
+  border-radius: 75px;
+  text-align: center;
+}
+
+h1 {
+  color: rgb(56, 106, 126);
+  text-align: center;
+}
+
+h2 {
+  color: rgb(56, 106, 126);
+  font-style: italic;
+  text-align: center;
+}
+
+p {
+  font-family: sans-serif;
+  text-align: center, justify;
+}
+
+body {
+  background-color: pink;
+}
+
+ul {
+  font-size: 15px;
+  line-height: 30px;
+  text-align: left;
+  font: Georgia;
+}
+
+ol {
+  font-size: 15px;
+  line-height: 30px;
+  text-align: left;
+  font: Georgia;
+}
+
+img {
+  border-radius: 25px;
+  box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0,0.19)
+}
